@@ -38,7 +38,7 @@
     border: none;
     outline: none;
   }
-  form input {
+  .form-data input {
     border: 1px solid gray;
     padding: 10px;
     font-size: 1.3rem;
